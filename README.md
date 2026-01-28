@@ -21,3 +21,7 @@ identify potential security risks.
 ## ▶️ How to Run
 ```bash
 python securevault.py
+
+## ⚠️ Note
+The passwords used in this project are dummy/sample values created
+only for educational and demonstration purposes.
